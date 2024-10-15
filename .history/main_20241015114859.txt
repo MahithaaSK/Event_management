@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+event management
+
+=======
+
+Hello I'm Mahithaa from AIML department
+>>>>>>> b469d3ea6a8ab97d30ca368a9189ac66c1812c00
+
